@@ -1,0 +1,28 @@
+name: mysite1
+favicon: null
+layout_spectrum: 0.0714508811943233
+typography_spectrum: 0.13613823032937944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.32919403607957065
+  lightness: 0.38932133256457746
+  saturation: 0.3993388502858579
+  rhythmicContrast: 0.16707055969163775
+purpose: []
