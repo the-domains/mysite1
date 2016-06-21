@@ -1,7 +1,7 @@
 name: mysite1
 favicon: null
-layout_spectrum: 0.0714508811943233
-typography_spectrum: 0.13613823032937944
+layout_spectrum: 0
+typography_spectrum: 0.06344
 title: My Site Title
 cta:
   domain: null
